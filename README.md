@@ -1,5 +1,5 @@
 # Pneumonia-Machine-Learning-Project
-The main objective of this project was to train a Machine Learning (ML) model to identify pneumonia or normal in chest x-rays. In order to achieve this, I used the Chest X-Ray Images (Pneumonia) dataset and DenseNet121. During the journey to my final goal, I completed smaller scale machine learning projects to learn the concepts and necessary ML frameworks needed to achieve a finished product.
+The main objective of this project was to train a Machine Learning (ML) model to identify pneumonia or normal in chest x-rays. In order to achieve this, I used the Chest X-Ray Images (Pneumonia) dataset and DenseNet121. During the journey to my final goal, I completed smaller scale ML projects to learn the concepts and necessary frameworks needed to achieve the final product.
 
 Step 1) Coding a CNN to Analyse the MNIST Dataset
 
