@@ -20,7 +20,7 @@ The main objective of this step was to train a ML model to learn the difference 
 
 Step 3) Using a Pre-trained Model (DenseNet121) to Analyze the Chest X-Ray Images (Pneumonia) Dataset 
 
-The main objective of this project was to use a pre-trained ML model to identify the difference of pneumonia and COVID-19 in chest x-rays using transfer learning.
+The main objective of this project was to use a pre-trained ML model to identify the difference between pneumonia and normal chest x-rays using transfer learning.
 
 - Overview of Learned Machine Learning Frameworks/Topics: Augmentation and Normalization, ImageNet Dataset (over 14 million annotated images which helps models learn features for general image recognition), Transfer Learning (removing top layer, adding different layers, freezing the base layers so the network only updates the weights in the new and untrained layers), Visualization of training and results 
 
