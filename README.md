@@ -8,6 +8,7 @@ The main objective of this step was to train a machine learning model able to id
 - Overview of Learned Machine Learning Frameworks/Topics: TensorFlow, Google Colab, Loss Metrics
 
 
+
 Step 2) Coding a CNN that Predicts Whether an Image is a Cat or Dog
 
 The main objective of this step of our project was to train a model to learn the difference between cats and dogs in a dataset.
@@ -16,8 +17,10 @@ The main objective of this step of our project was to train a model to learn the
 
 
 
+
 Step 3) Using a Pre-trained Model (DenseNet121) to Analyze the Chest X-Ray Images (Pneumonia) Dataset 
 
 The main objective of this project was to use a pre-trained machine learning model to identify the difference of pneumonia and COVID-19 in chest x-rays using transfer learning.
 
 - Overview of Learned Machine Learning Frameworks/Topics: Augmentation and Normalization, ImageNet Dataset (over 14 million annotated images which helps models learn features for general image recognition), Transfer Learning (removing top layer, adding different layers, freezing the base layers so the network only updates the weights in the new and untrained layers), Visualization of training and results 
+
