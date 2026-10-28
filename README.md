@@ -24,3 +24,8 @@ The main objective of this project was to use a pre-trained ML model to identify
 
 - Overview of Learned Machine Learning Frameworks/Topics: Augmentation and Normalization, ImageNet Dataset (over 14 million annotated images which helps models learn features for general image recognition), Transfer Learning (removing top layer, adding different layers, freezing the base layers so the network only updates the weights in the new and untrained layers), Visualization of training and results 
 
+
+
+Chest X-Ray Images (Pneumonia) dataset:
+
+Kermany, Daniel; Zhang, Kang; Goldbaum, Michael (2018), “Labeled Optical Coherence Tomography (OCT) and Chest X-Ray Images for Classification”, Mendeley Data, V2, doi: 10.17632/rscbjbr9sj.2
